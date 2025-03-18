@@ -22,7 +22,7 @@
 
 git clone https://github.com/MilenkaQuisbert/juego-amigo-secreto.github.io.git
 
-- O si prefieres ver el **demo en vivo**:
+- O si prefieres ver el **demo en vivo**:  
   https://milenkaquisbert.github.io/juego-amigo-secreto.github.io/
 
   https://juego-amigo-secreto-github-io.vercel.app/
