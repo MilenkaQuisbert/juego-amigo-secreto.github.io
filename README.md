@@ -24,6 +24,8 @@ git clone https://github.com/MilenkaQuisbert/juego-amigo-secreto.github.io.git
 
 - O si prefieres ver el **demo en vivo**:
   https://milenkaquisbert.github.io/juego-amigo-secreto.github.io/
+
+  https://juego-amigo-secreto-github-io.vercel.app/
 # 🛠️ Abrir y ejecutar el proyecto
 1. Clonar repositorio
 2. Ejecutar index.html en un navegador
