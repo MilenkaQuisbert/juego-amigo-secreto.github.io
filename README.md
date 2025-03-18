@@ -1,3 +1,5 @@
+![372623591-c02a2e40-8b07-47e9-936c-dc45e30efc50](https://github.com/user-attachments/assets/959dfe1d-cd9e-4343-acb3-9b9d712a07e3)
+
 # 📌Nombre del proyecto
 
 **Juego del Amigo Secreto**
@@ -10,8 +12,11 @@
 
 - **Visualizar la lista:** Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 
-- **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
-  [Demostración del Juego](https://raw.githubusercontent.com/MilenkaQuisbert/juego-amigo-secreto.github.io/main/assets/AmigoSecreto.gif)
+- **Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.  
+  **Demostración del Juego**
+
+  ![AmigoSecreto](https://github.com/user-attachments/assets/78efbc14-22a2-4097-8e2f-220995d20f04)
+
 
 # ✔️ Técnicas y tecnologías utilizadas
 🖥️ **HTML** - Estructura del sitio  
